@@ -1,5 +1,5 @@
 # E10a-Blender
-This exercise will give you an opportunity to get some experience using Blender (in advance of the requirements of Project 09).
+This exercise will give you an opportunity to get some experience using Blender (in advance of the requirements for Project 09).
 
 As usual, Fork and Clone this repository.
 
